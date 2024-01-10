@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+    
+
+header{
+    background-color: #e67085;
+    width: 100vw;
+    height: 10vh;
+    position: absolute ;
+    
+}
+main{
+    background-color: #c9ebff;
+    width: 100vw;
+    height: 78vh;
+    position: absolute ; bottom: 0vw; top: 7vw;
+}
+section{
+    background-color: #03a8ff;
+    width: 80vw;
+    height: 10vh;
+    position: absolute ;  top: 30vw; left: 10vw;
+}
+footer{
+    background-color: #b27df4;
+    width: 100%;
+    height: 10vh;
+    position:absolute ; bottom:0vw ;
+   
+}
+aside{
+    background-color: #fbd0d6;
+    width: 40vw;
+    height: 40vh;
+    position: relative; left: 15vw; top: ; bottom: 29vw;
+}
+div{
+    background-color: #ffdb83;
+    width: 20vw;
+    height: 20vh;
+    position: absolute ;
+}
+nav{
+   background-color:  #c8efad;
+   width: 100vw;
+   height: 6vh;
+   position: absolute ; top: 5vw;
+}
